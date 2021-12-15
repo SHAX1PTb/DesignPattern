@@ -1,18 +1,18 @@
-package main.java.AbstractFactory;
+package main.java.Creational.AbstractFactory;
 
-public class Hp extends Laptop {
+public class Mac extends Laptop {
 
     private String ramSize;
     private String processorType;
 
-    public Hp(String ramSize, String processorType) {
+    public Mac(String ramSize, String processorType) {
         this.ramSize = ramSize;
         this.processorType = processorType;
     }
 
     @Override
     public String toString() {
-        return "Hp{" +
+        return "Mac{" +
                 "ramSize='" + ramSize + '\'' +
                 ", processorType='" + processorType + '\'' +
                 '}';
@@ -21,6 +21,6 @@ public class Hp extends Laptop {
     @Override
     public String getConfiguration() {
 
-        return "This is Hp Class"+ramSize + processorType;
+        return "This is Mac Class"+ramSize + processorType;
     }
 }

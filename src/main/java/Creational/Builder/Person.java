@@ -1,4 +1,4 @@
-package main.java.Builder;
+package main.java.Creational.Builder;
 
 public class Person {
 

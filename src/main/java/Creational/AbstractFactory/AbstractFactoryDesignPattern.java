@@ -1,4 +1,4 @@
-package main.java.AbstractFactory;
+package main.java.Creational.AbstractFactory;
 
 public class AbstractFactoryDesignPattern {
 
