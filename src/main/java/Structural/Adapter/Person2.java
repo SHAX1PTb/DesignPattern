@@ -1,6 +1,6 @@
-package main.java.Structural.Adapter;
+package Structural.Adapter;
 
-public class Person1 {
+public class Person2 {
     private String name;
     private String bankAccount;
     private String taxiNo;
