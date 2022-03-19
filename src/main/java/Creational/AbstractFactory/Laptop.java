@@ -1,4 +1,4 @@
-package main.java.Creational.AbstractFactory;
+package Creational.AbstractFactory;
 
 public abstract class Laptop {
 

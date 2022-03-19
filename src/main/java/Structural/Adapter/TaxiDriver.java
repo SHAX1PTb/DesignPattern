@@ -1,4 +1,4 @@
-package main.java.Structural.Adapter;
+package Structural.Adapter;
 
 public class TaxiDriver implements Driver {
     private String carNo;

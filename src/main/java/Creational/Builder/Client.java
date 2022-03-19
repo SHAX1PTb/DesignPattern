@@ -1,4 +1,4 @@
-package main.java.Creational.Builder;
+package Creational.Builder;
 
 public class Client {
 

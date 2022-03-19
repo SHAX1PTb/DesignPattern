@@ -1,4 +1,4 @@
-package main.java.Creational.Prototype;
+package Creational.Prototype;
 
 import java.util.List;
 
